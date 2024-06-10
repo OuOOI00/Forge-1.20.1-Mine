@@ -1,4 +1,8 @@
 {
   "item.mccourse.alexandrite": "Alexandrite",
-  "item.mccourse.raw_alexandrite": "Raw Alexandrite"
+  "item.mccourse.raw_alexandrite": "Raw Alexandrite",
+  "item.mccourse.presa_blessing": "Presa's blessing",
+
+
+  "block.mccourse.alexandrite_block": "Alexandrite Block"
 }

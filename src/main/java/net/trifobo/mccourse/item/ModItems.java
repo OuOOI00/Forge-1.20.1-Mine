@@ -19,6 +19,8 @@ public class ModItems {
 
     public static final RegistryObject<Item> RAW_ALEXANDRITE = ITEMS.register("raw_alexandrite",
             () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> PRESA_BLESSING  = ITEMS.register("presa_blessing",
+            () -> new Item(new Item.Properties()));
 
     
 
