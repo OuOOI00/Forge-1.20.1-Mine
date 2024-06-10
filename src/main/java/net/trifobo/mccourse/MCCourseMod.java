@@ -28,7 +28,7 @@ public class MCCourseMod
     public MCCourseMod()
     {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
-
+//ff
         // Register the commonSetup method for modloading
         modEventBus.addListener(this::commonSetup);
 
